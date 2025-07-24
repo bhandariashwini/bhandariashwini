@@ -14,10 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Uploading image.png…]()
 
 
 
 
+
+![image2](https://github.com/user-attachments/assets/3bdd9198-3bf3-490c-8f30-7b8353cb61b8)
 
 
