@@ -1,4 +1,4 @@
-Hello Wolrd This is My Portfolio 👋
+ 👋 Welcome ! l'm glad you're here to explore my work
 
 <!--
 **bhandariashwini/bhandariashwini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
