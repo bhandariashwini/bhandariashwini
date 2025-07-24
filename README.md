@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/bhandariashwini/bhandariashwini/blob/main/ASHWIINI%20BHANDARI.jpg)
 
 
   Welcome ! l'm glad you're here to explore my work
