@@ -1,3 +1,6 @@
+![logo]()
+
+
   Welcome ! l'm glad you're here to explore my work
 <h1 align="center">Hi 👋, I'm Ashwini Bhandari</h1>
 <h3 align="center">A passionate Embedded System Trainee</h3>
