@@ -1,7 +1,9 @@
   Welcome ! l'm glad you're here to explore my work
 <h1 align="center">Hi 👋, I'm Ashwini Bhandari</h1>
 <h3 align="center">A passionate Embedded System Trainee</h3>
-<img align="right" alt="coding" width="400" src="<img width="680" height="428" alt="image" src="https://github.com/user-attachments/assets/2c7eb9bb-e2d1-4ac3-8a38-6f48ec321c13" />
+
+
+
 
 
 - 🌱 I’m currently learning **C,C++,Embeddded C,Linux,TCPIP**
