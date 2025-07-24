@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Uploading image2.jpeg…]()
+![Uploading image.png…]()
+
 
 
 
