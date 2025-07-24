@@ -1,4 +1,4 @@
-  Welcome ! l'm glad you're here to explore my work
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/c9423faf-d029-4427-966d-a52446fd5512" /><img width="643" height="360" alt="image" src="https://github.com/user-attachments/assets/d8053cd4-0457-4e30-a4b9-b7af0976f12d" />  Welcome ! l'm glad you're here to explore my work
 
 <!--
 **bhandariashwini/bhandariashwini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Uploading image.png…]()
+![Uploading image2.jpeg…]()
+
+
+
 
 
