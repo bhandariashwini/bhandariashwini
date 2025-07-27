@@ -123,26 +123,9 @@ __Learning Keys:__
  - Gained understanding of code organization, debugging, and testing in a real-world project structure.
  - Enhanced logic-building and problem-solving through C-based system-level programming.
 
-__📁 View Project: 🔗[Link](https://github.com/prajwal4433/Library_Management_System)__
-________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-__Module C & DSA : Phone Book Application__
-
-__Objective:__ Your project is to implement PHONE BOOK APP with options to save multiple numbers, address, gmail, and many more options as per requirement in single contact. And this app should be allow us to edit, remove, find the contacts from the phone book.
-
-__Learning Keys:__
- - Applied modular programming by dividing functionalities into multiple .c and .h files.
- - Used structures and structure pointers to store and manage contact details like name, numbers, email, and address.
- - Implemented a singly linked list (SLL) for dynamic, runtime contact management.
- - Practiced file handling in C to enable persistent data storage across multiple app runs.
- - Developed a menu-driven user interface to interactively perform contact operations.
- - Used Dynamic Memory Allocation (DMA) (malloc, free) to handle variable-length contact records.
- - Automated the build process with a Makefile, improving code maintenance and compilation speed.
- - Strengthened knowledge of code structure, debugging, and modular testing in a real-world application.
- - Improved logic-building, problem-solving, and system-level programming in the C language.
-
-__📁 View Project: 🔗[Link](https://github.com/prajwal4433/Phone_Book_Application)__
-________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+__📁 View Project: 🔗[Link](https://github.com/bhandariashwini/Library_Management_system)__
+__________________________________________________________________________________________________________________________________________________________________________________________
+__________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module C++ : Student Database using C++ Programming__
 
@@ -155,7 +138,7 @@ __Learning Keys:__
  - Designed a menu-driven interface for user-friendly interaction with options like add, delete, search, edit, and save.
  - Enforced unique Student ID validation to maintain database integrity.
 
-__📁 View Project: 🔗[Link](https://github.com/prajwal4433/Student_Data_base_cpp)__
+__📁 View Project: 🔗[Link]()__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module C++ : Bank Managment System Using C++__
