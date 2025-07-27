@@ -151,7 +151,7 @@ __Learning Keys:__
 - User Input/Output Handling: Using fgets() for safe input and fflush(stdout) for clean output display.
 - Concurrency Basics: Understanding concurrent execution of send/receive through parent-child process splitting.
 
-__📁 View Project: 🔗[Link]()__
+__📁 View Project: 🔗[Link](https://github.com/bhandariashwini/mini_project_linux)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module ARM :⏱️ The Time-Driven Access Control System.__
