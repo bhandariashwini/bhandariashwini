@@ -1,5 +1,7 @@
 ## 👋 Hello! Welcome to my Portfolio 
 
+<img width="2000" height="703" alt="image" src="https://github.com/user-attachments/assets/c5c49f5c-1932-4df8-b69c-587c8529ac17" />
+
 
 ## 📌About Me
 I am Ashwini Bhandari, an Embedded Systems trainee with strong programming skills in C, C++, Embedded C, Linux. Currently training at Vector India, Hyderabad, I’m working extensively with microcontrollers like ARM7 (LPC2129/LPC2148), 8051 and gaining in-depth knowledge of embedded hardware and software integration.
@@ -17,6 +19,9 @@ ________________________________________________________________________________
  - __Developer Tools:__ Keil µVision, Proteus, Arduino IDE
  - __Communication Protocols:__ CAN, SPI, I2C, USB, UART
  - __Networking Protocols:__ TCP/IP
+
+   <img width="883" height="299" alt="image" src="https://github.com/user-attachments/assets/a443ac4c-4929-4739-93bf-d0f39ab43d13" />
+
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -83,7 +88,7 @@ __Learning Keys:__
  - Structured the project with clear code organization and proper header file usage (typedef, enum).
  - Strengthened understanding of real-time database concepts and logic building using system-level C programming.
 
-__📁 View Project: 🔗[Link](https://github.com/prajwal4433/Student_Data_base_cpp)__
+__📁 View Project: 🔗[Link]()__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module C & DSA : Bank managment system__
