@@ -262,7 +262,7 @@ __Learning Keys:__
  - Modular Design: Split large code into reusable functions and separate files.
  - Real-Time Embedded Systems: Build integrated projects simulating real-world systems.
    
-__📁 View Project: 🔗[Link](https://github.com/prajwal4433/ARM_LPC2129)__
+__📁 View Project: 🔗[Link](https://github.com/bhandariashwini/ARM7_LPC2129)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __👨‍💻 Microcontroller AT89S52(8051)__
