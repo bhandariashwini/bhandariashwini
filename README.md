@@ -169,6 +169,26 @@ __Learning Keys:__
 __📁 View Project: 🔗[Link](https://github.com/bhandariashwini/Time-Driven-Access-Control-System)__
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+__Module TCPIP: .__TCP BASED CHATING APPLICATION.
+
+__Objective:__ implement chating application to allow two persons for chating over a network i.e.., CLIENT1 and CLIENT2 , with help of SOCKET programming by using TCP protocols. .
+
+__Learning Keys:__
+
+ - Understand TCP/IP and socket programming basics.
+
+ - Use functions: socket(), bind(), listen(), accept(), connect(), send(), recv().
+
+ - Implement client-server model with bi-directional communication.
+
+ - Handle threads or select() for simultaneous send/receive.
+
+ - Manage message buffers and proper error handling.
+
+ - Use IP, ports, and test via localhost or LAN.
+ - 
+__📁 View Project: 🔗[Link]()__
+________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __👨‍💻 ARM7 LPC2148__
 
@@ -299,13 +319,13 @@ __Learning Keys:__
  - Control cursor, create custom symbols, and format strings on LCD.
  - Design real-time logic flows like counters, clocks, and simulators.
 
-__📁 View Project: 🔗[Link](https://github.com/prajwal4433/Microcontroller_8051)__
+__📁 View Project: 🔗[Link](https://github.com/bhandariashwini/Microcontroller_805)__
 _______________________________________________________________________________________________________________________________________________________________________
 
 ## 🌐 Let’s Connect!
 📍 Location: Hyderabad \
-📧 Email: prajwalshinde1106@gmail.com \
-🔗 LinkedIn: https://www.linkedin.com/in/prajwal-shinde-8948852a9/
+📧 Email: ashwinibhandari1415@gmail.com \
+
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
