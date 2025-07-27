@@ -5,7 +5,7 @@
 
 ## 📌About Me
 
-I am Prajwal Shinde, an Embedded Systems trainee with strong programming skills in C, C++, Embedded C, and Data Structures. Currently training at Vector India, Hyderabad, I’m working extensively with microcontrollers like ARM7 (LPC2129/LPC2148), 8051 and gaining in-depth knowledge of embedded hardware and software integration.
+I am Ashwini Bhandari, an Embedded Systems trainee with strong programming skills in C, C++, Embedded C, Linux. Currently training at Vector India, Hyderabad, I’m working extensively with microcontrollers like ARM7 (LPC2129/LPC2148), 8051 and gaining in-depth knowledge of embedded hardware and software integration.
 
 My focus areas include real-time operating systems (RTOS), Linux-based development, and communication protocols such as CAN, SPI, I2C, and UART. I enjoy problem-solving and continuously seek to improve system efficiency and reliability. My dedication to learning and building practical solutions is driven by a passion for coding, electronics, and system interfacing.
 
@@ -14,15 +14,15 @@ I’m looking forward to contributing to innovative embedded technology projects
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 ## 💻 Tools & Technologies:
 
- - __Programming Languages:__ C, C++, Data Structures & Algorithms (DSA), Embedded C
- - __Microcontrollers:__ ARM (LPC2129 & LPC2148) and 8051(89S51 & 89C52)
+ - __Programming Languages:__ C, C++,Embedded C
+ - __Microcontrollers:__ ARM (LPC2129 & LPC2148)
  - __Operating Systems:__ Linux, Real-Time Operating System (RTOS)
  - __Developer Tools:__ Keil µVision, Proteus, Arduino IDE
  - __Communication Protocols:__ CAN, SPI, I2C, USB, UART
  - __Networking Protocols:__ TCP/IP
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-![Blue and White Modern Professional General Linkedin Banner (1)](https://raw.githubusercontent.com/prajwal4433/prajwal4433/refs/heads/main/V24HE6P11.png)
+
 
 ## MAJOR PROJECTS 
 
