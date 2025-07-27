@@ -105,7 +105,7 @@ __Learning Keys:__
  - Managing the project using Makefile and CLI tools.
  - Enhancing code quality with typedef, enum.
 
-__📁 View Project: 🔗[Link](https://github.com/prajwal4433/Bank_managment_system)__
+__📁 View Project: 🔗[Link](https://github.com/bhandariashwini/Bank_management_system_using_cpp)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module C & DSA : Library Management System__
