@@ -166,7 +166,7 @@ __Learning Keys:__
  - LCD and User Interface: Learn to display real-time information (like date, time, and access status) on a 16x2 or 20x4 LCD and provide a user-friendly interface for password entry and settings modification.
  - System Integration: Integrate all components (LPC2148 microcontroller, RTC, LCD, Keypad, and Buzzer/LED) to build a complete access control system that works under scheduled conditions.
 
-__📁 View Project: 🔗[Link](https://github.com/prajwal4433/Time_Driven_Access_Control_System)__
+__📁 View Project: 🔗[Link](https://github.com/bhandariashwini/Time-Driven-Access-Control-System)__
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
