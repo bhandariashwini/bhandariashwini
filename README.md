@@ -67,45 +67,7 @@ __Learning Keys:__
  - Real-Time Application Thinking: Developed understanding of real-world system behavior, user access security, and fault-tolerance.
 
 __📁 View Project LPC2148: 🔗[Link](https://github.com/prajwal4433/ATM-System-Design-with-Database-Integration)__
-________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## MINI PROJECTS 
-
-__Module C & DSA : Student Database__
-
-__Objective:__ Your app should be used for all elementary work of a database application such as Input Records, deletion of records, Display records, sort records, save , search record etc..
-
-__Learning Keys:__
- - Applied modular programming by separating each functionality (add, delete, edit, search, etc.) into different .c files.
- - Used structures and structure pointers to manage complex student records efficiently.
- - Implemented singly linked list (SLL) for dynamic student record storage and manipulation.
- - Practiced Dynamic Memory Allocation (DMA) to manage memory at runtime for growing/shrinking records.
- - Designed a menu-driven interface for interactive and user-friendly operations.
- - Enforced unique Student ID validation to avoid duplicate entries in the database.
- - Implemented file handling in C to persist student data across sessions (save(), syncfile() etc.).
- - Developed sub-menu logic for editing, allowing modification of individual record fields.
- - Built and compiled the project using a Makefile, improving efficiency and maintainability.
- - Structured the project with clear code organization and proper header file usage (typedef, enum).
- - Strengthened understanding of real-time database concepts and logic building using system-level C programming.
-
-__📁 View Project: 🔗[Link]()__
-________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-
-__Module C & DSA : Bank managment system__
-
-__Objective:__ Developed a Banking Management System in C using structures, file handling, and linked lists to manage account creation, transactions, and data persistence through a menu-driven interface. Focused on modular programming and real-time data storage.
-
-__Learning Keys:__
- - Designing structure-based applications.
- - Using structure within a structure for transaction tracking.
- - Implementing SLL (Singly Linked List) with structure pointers.
- - Applying Dynamic Memory Allocation (DMA)
- - Developing a file-based storage system (save/load features)
- - Creating modular code architecture.
- - Managing the project using Makefile and CLI tools.
- - Enhancing code quality with typedef, enum.
-
-__📁 View Project: 🔗[Link](https://github.com/bhandariashwini/Bank_management_system_using_cpp)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module C & DSA : Library Management System__
@@ -152,7 +114,7 @@ __Learning Keys:__
  - Designed a modular C++ project with well-organized source files (main.cpp, accounts.cpp, file_operations.cpp, banking.h).
  - Developed a menu-driven interface for user-friendly interaction supporting core banking operations and transaction tracking.
 
-__📁 View Project: 🔗[Link](https://github.com/prajwal4433/Bank_managment_system_using_cpp)__
+__📁 View Project: 🔗[Link](https://github.com/bhandariashwini/Bank_management_system_using_cpp)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module LINUX : Implementation of a Basic ls -l Command in C__
@@ -172,7 +134,7 @@ __Learning Keys:__
  - Owner and Group Resolution: Applied getpwuid() and getgrgid() to convert UID and GID to readable names.
  - Formatted Output: Practiced structuring output similar to ls -l using strftime() and formatted printing.
 
-__📁 View Project: 🔗[Link]()__
+__📁 View Project: 🔗[Link](https://github.com/bhandariashwini/my_ls_command)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module LINUX : Chatting Application Using FIFO (Named Pipes) and IPC in C.__
@@ -189,7 +151,7 @@ __Learning Keys:__
 - User Input/Output Handling: Using fgets() for safe input and fflush(stdout) for clean output display.
 - Concurrency Basics: Understanding concurrent execution of send/receive through parent-child process splitting.
 
-__📁 View Project: 🔗[Link](https://github.com/prajwal4433/MINI_PROJECT_LINUX)__
+__📁 View Project: 🔗[Link]()__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __Module ARM :⏱️ The Time-Driven Access Control System.__
