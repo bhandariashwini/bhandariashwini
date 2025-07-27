@@ -169,7 +169,7 @@ __Learning Keys:__
 __📁 View Project: 🔗[Link](https://github.com/bhandariashwini/Time-Driven-Access-Control-System)__
 
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
-__Module TCPIP: .__TCP BASED CHATING APPLICATION.
+__Module TCPIP: .__**TCP BASED CHATING APPLICATION.**
 
 __Objective:__ implement chating application to allow two persons for chating over a network i.e.., CLIENT1 and CLIENT2 , with help of SOCKET programming by using TCP protocols. .
 
@@ -187,7 +187,7 @@ __Learning Keys:__
 
  - Use IP, ports, and test via localhost or LAN.
  - 
-__📁 View Project: 🔗[Link]()__
+__📁 View Project: 🔗[Link](https://github.com/bhandariashwini/Tcp-Ip-Mini-Project)__
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 __👨‍💻 ARM7 LPC2148__
