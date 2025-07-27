@@ -1,10 +1,7 @@
 ## 👋 Hello! Welcome to my Portfolio 
 
-![PRAJWAL SHINDE](https://raw.githubusercontent.com/prajwal4433/prajwal4433/refs/heads/main/Screenshot%202025-07-14%20114110.png)
-
 
 ## 📌About Me
-
 I am Ashwini Bhandari, an Embedded Systems trainee with strong programming skills in C, C++, Embedded C, Linux. Currently training at Vector India, Hyderabad, I’m working extensively with microcontrollers like ARM7 (LPC2129/LPC2148), 8051 and gaining in-depth knowledge of embedded hardware and software integration.
 
 My focus areas include real-time operating systems (RTOS), Linux-based development, and communication protocols such as CAN, SPI, I2C, and UART. I enjoy problem-solving and continuously seek to improve system efficiency and reliability. My dedication to learning and building practical solutions is driven by a passion for coding, electronics, and system interfacing.
